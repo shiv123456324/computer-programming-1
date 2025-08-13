@@ -6,11 +6,11 @@ int main()
     scanf(" %d %d",&a,&b);
     if(a>b)
     {
-        printf("number a is largest value");
+        printf("number a is largest value \n number b is smallest value");
     }
     else
     {
-        printf("number b is largest value");
+        printf("number b is largest value \n number a is smallest value");
     }
     return 0;
 }
